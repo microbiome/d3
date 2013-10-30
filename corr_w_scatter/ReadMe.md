@@ -23,6 +23,8 @@ that you generated at the first step:
 
 Navigate to the working directory and open the index.html file.
 
+You should then see something like [this](http://roihu.info/temp/D3/).
+
 
 Possibly needed
 ---------------
